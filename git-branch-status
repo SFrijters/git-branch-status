@@ -528,8 +528,8 @@ PrintReport() # (table_header_line synchronized_msg)
   #       (( $LocalW <= $RemoteW )) && RemoteW=$(( $RemoteW - 1 ))
   # done
 
-  LocalW=30
-  RemoteW=40
+  LocalW=50
+  RemoteW=60
 
   # print comparison header
   # if   (( $are_all_in_sync ))
