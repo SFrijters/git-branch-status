@@ -530,6 +530,8 @@ PrintReport() # (table_header_line synchronized_msg)
 
   LocalW=50
   RemoteW=60
+  BehindW=12
+  AheadW=12
 
   # print comparison header
   # if   (( $are_all_in_sync ))
